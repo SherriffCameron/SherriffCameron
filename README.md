@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SherriffCameron
-- 👀 I’m interested in learning all the necessary skills to become a developer 
-- 🌱 I’m currently doing the CS50 program with Harvard
+- 👋 Hello, I’m Cameron Sherriff
+- 👀 Junior Software Developer 
+- 🌱 Completed Harvard Univercity's CS50 program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, @sherriffcameron@gmail.com
 
